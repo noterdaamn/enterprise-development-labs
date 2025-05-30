@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Polyclinic\Polyclinic.Domain\bin\Debug\net8.0\Polyclinic.Domain.deps.json
+C:\Users\Admin\source\repos\Polyclinic\Polyclinic.Domain\bin\Debug\net8.0\Polyclinic.Domain.dll
+C:\Users\Admin\source\repos\Polyclinic\Polyclinic.Domain\bin\Debug\net8.0\Polyclinic.Domain.pdb
+C:\Users\Admin\source\repos\Polyclinic\Polyclinic.Domain\obj\Debug\net8.0\Polyclinic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Polyclinic\Polyclinic.Domain\obj\Debug\net8.0\Polyclinic.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Polyclinic\Polyclinic.Domain\obj\Debug\net8.0\Polyclinic.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Polyclinic\Polyclinic.Domain\obj\Debug\net8.0\Polyclinic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Polyclinic\Polyclinic.Domain\obj\Debug\net8.0\Polyclinic.Domain.dll
+C:\Users\Admin\source\repos\Polyclinic\Polyclinic.Domain\obj\Debug\net8.0\refint\Polyclinic.Domain.dll
+C:\Users\Admin\source\repos\Polyclinic\Polyclinic.Domain\obj\Debug\net8.0\Polyclinic.Domain.pdb
+C:\Users\Admin\source\repos\Polyclinic\Polyclinic.Domain\obj\Debug\net8.0\ref\Polyclinic.Domain.dll
